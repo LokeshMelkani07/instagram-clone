@@ -1,4 +1,4 @@
-Instagram-Clone
+Instagram-Clone : 
 This Instagram Clone is made using Reactjs and Firebase 
 It has user authentication , database so that you can create your own post , you can comment on your friends pic.
 You can add any audio or video or image and make a post 
