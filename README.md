@@ -6,6 +6,7 @@ You can add any audio or video or image and make a post
 Live Link : https://instagram-clone-cbfe0.web.app/
 
 Demo Pic : 
+
 <img width="960" alt="demo1" src="https://user-images.githubusercontent.com/93420193/185431988-2073c2e5-005d-4858-a4c5-31c39d9065fd.png">
 <img width="960" alt="demo2" src="https://user-images.githubusercontent.com/93420193/185431993-696ba7e0-003e-494c-9744-f5b2686be0e7.png">
 
