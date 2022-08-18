@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Montserrat&family=Poppins&family=Roboto&family=Spline+Sans+Mono&display=swap');
+.post{
+    max-width: 500px;
+    background-color: white;
+    border: 1px solid gray;
+    margin-bottom: 45px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.post_image{
+  width: 100%;
+  object-fit: contain;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.post_header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.post_avatar{
+    margin-right: 10px;
+}
+
+.post_text{
+    font-weight: normal;
+    padding: 20px;
+}
+
+.post_comments{
+    padding: 20px;
+    border-top: 1px solid lightgrey;
+}
+
+.post_comments p{
+    margin: 5px 0px;
+}
+
+.post_commentBox{
+    display: flex;
+    margin-top: 10px;
+}
+
+.post_input{
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-top: 1px solid darkgrey;
+    font-weight: bold;
+}
+
+.post_button{
+    flex: 0.2;
+    cursor: pointer;
+    border: none;
+    border-top: 1px solid darkgrey;
+    background-color: #FFFFFF;
+    color: #0095F6;
+    font-weight: bold;
+
+}
+
+.post_button[disabled]{
+   color: #B1DEFC
+}

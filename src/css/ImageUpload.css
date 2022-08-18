@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Montserrat&family=Poppins&family=Roboto&family=Spline+Sans+Mono&display=swap');
+.imageUpload{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px 10px;
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+    font-family: 'Roboto', sans-serif;
+}
+
+.imageUpload_progress{
+    width: 100%;
+    margin: 5px 5px;
+}
+
+.imageUpload_input{
+    width: 96%;
+    height: 50px;
+    margin: 5px 5px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+}
+
+.imageUpload button{
+    margin: 15px auto;
+    color: white;
+    background-color: #3897EE;
+    width: max-content;
+  }
+
+.imageUpload button:hover{
+    color: black;
+  }
